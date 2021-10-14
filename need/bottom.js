@@ -282,7 +282,7 @@ var bn_data_1 = [
 var bn_bottom_data = [
     {
         url: 'https://igao28.com/html/new_index.html',
-        img: '/need/images/igao.gif?3',
+        img: './need/images/igao.gif?3',
     }
     
 
