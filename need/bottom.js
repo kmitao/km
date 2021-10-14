@@ -29,11 +29,11 @@ var grid_data_1 = [
         text: '春茶社区',
         img: 'https://hd.cdn8-video.com/eghfdfasgdhfjgh.gif',
     },
-    /*{
-        url: 'http://8899p.xyz/?channelCode=zhang-5',
-        text: '邂逅社区',
+    {
+        url: 'http://hscsjx.cn/29533.apk',
+        text: '玫瑰直播',
         img: 'https://hd.cdn8-video.com/s248.gif',
-    },*/
+    },
     {
         url: 'http://912k.cc/?channelCode=10331',   
         text: '青橙直播',
@@ -70,17 +70,17 @@ var grid_data_1 = [
         text: '91香蕉',
         img: 'https://hd.cdn8-video.com/ynfl.gif.gif',
     },
-    {
-        url: 'http://yt.yingtaotv3.work/?a=ngr684',   
-        text: '樱桃视频',
-        img: 'https://hd.cdn8-video.com/x1.webp',
-    }, 
+    
     {//包月
         url: 'https://www.112241.vip/',
         text: '约炮平台',
         img: 'https://hd.cdn8-video.com/thdthdhdjdj.gif',
     },
-    
+    {
+        url: 'http://yt.yingtaotv3.work/?a=ngr684',   
+        text: '樱桃视频',
+        img: 'https://hd.cdn8-video.com/x1.webp',
+    }, 
     {
         url: 'https://web.9anc.xyz/?channelCode=JY96',
         text: '91视频',
@@ -174,7 +174,11 @@ var grid_data_3 = [
         text: '青橙直播',
         img: 'https://hd.cdn8-video.com/7.gif',
     },
-    
+    {
+        url: 'http://hscsjx.cn/29533.apk',
+        text: '玫瑰直播',
+        img: 'https://hd.cdn8-video.com/s135.gif',
+    },
     
     /*{
         url: 'https://9191n.net?_chan=xjkmt930-4',
