@@ -71,7 +71,7 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/ynfl.gif.gif',
     },
     {
-        url: 'https://apk.jiangyinfengwang.com/package/android/48_zjlnzw_3.1.9.apk',   
+        url: 'http://yt.yingtaotv3.work/?a=ngr684',   
         text: '樱桃视频',
         img: 'https://hd.cdn8-video.com/x1.webp',
     }, 
