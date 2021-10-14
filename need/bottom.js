@@ -472,4 +472,4 @@ var grid_data_randomtext = [
 ];
 
 //引入设置
-document.write("<script type='text/javascript' src='/need/setting.js?10'><\/script>");
+document.write("<script type='text/javascript' src='./need/setting.js?10'><\/script>");
