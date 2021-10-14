@@ -107,7 +107,7 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/qingqingcao.gif',
     }, 
     {
-        url: 'https://dyfactor.com?channel=tdy10132',   
+        url: 'https://dydreaming.com?channel=tdy10132',   
         text: '抖音性世界',
         img: 'https://hd.cdn8-video.com/sdgfdswe.gif',
     },
