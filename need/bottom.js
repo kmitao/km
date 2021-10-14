@@ -46,7 +46,7 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/ertoiuytr.gif',
     },
     {
-        url: 'https://dyfactor.com?channel=tdy914j10',
+        url: 'https://dydreaming.com?channel=tdy914j10',
         text: '抖阴视频',
         img: 'https://hd.cdn8-video.com/asdfghfdsa.gif',
     },
