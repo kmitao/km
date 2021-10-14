@@ -41,12 +41,12 @@ var grid_data_1 = [
     },
     
     {
-        url: 'https://51mh049.com/?_c=cpa11mh',
+        url: 'https://51mh056.com/?_c=cpa11mh',
         text: '成人动漫',
         img: 'https://hd.cdn8-video.com/ertoiuytr.gif',
     },
     {
-        url: 'https://dysp9.me?channel=tdy914j10',
+        url: 'https://dyfactor.com?channel=tdy914j10',
         text: '抖阴视频',
         img: 'https://hd.cdn8-video.com/asdfghfdsa.gif',
     },
@@ -82,12 +82,12 @@ var grid_data_1 = [
     },
     
     {
-        url: 'https://web.zhengzhouybdl.com/?channelCode=JY96',
+        url: 'https://web.9anc.xyz/?channelCode=JY96',
         text: '91视频',
         img: 'https://hd.cdn8-video.com/s245.gif',
     },
     {
-        url: 'https://ldyljr108.net/162e42c5fbbfd90b',
+        url: 'https://ldyljr1011.live/162e42c5fbbfd90b',
         text: '绿巨人',
         img: 'https://hd.cdn8-video.com/efefdvdftergfngfh.gif',
     },
