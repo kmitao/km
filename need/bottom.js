@@ -25,7 +25,7 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/eghfdfasgdhfjgh.gif',
     },
     {
-        url: 'http://hscsjx.cn/29533.apk',
+        url: 'http://meigui06.com/?channelCode=29533',
         text: '玫瑰直播',
         img: 'https://hd.cdn8-video.com/s248.gif',
     },
@@ -65,17 +65,17 @@ var grid_data_1 = [
         text: '91香蕉',
         img: 'https://hd.cdn8-video.com/ynfl.gif.gif',
     },
-    
-    {//包月
-        url: 'https://www.112241.vip/',
-        text: '约炮平台',
-        img: 'https://hd.cdn8-video.com/thdthdhdjdj.gif',
-    },
     {
         url: 'http://yt.yingtaotv3.work/?a=ngr684',   
         text: '樱桃视频',
         img: 'https://hd.cdn8-video.com/x1.webp',
     }, 
+    {//包月
+        url: 'https://www.112241.vip/',
+        text: '约炮平台',
+        img: 'https://hd.cdn8-video.com/thdthdhdjdj.gif',
+    },
+    
     {
         url: 'https://web.9anc.xyz/?channelCode=JY96',
         text: '91视频',
@@ -165,7 +165,7 @@ var grid_data_3 = [
         img: 'https://hd.cdn8-video.com/7.gif',
     },
     {
-        url: 'http://hscsjx.cn/29533.apk',
+        url: 'http://meigui06.com/?channelCode=29533',
         text: '玫瑰直播',
         img: 'https://hd.cdn8-video.com/s135.gif',
     },
