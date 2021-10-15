@@ -25,7 +25,7 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/eghfdfasgdhfjgh.gif',
     },
     {
-        url: 'http://meigui06.com/?channelCode=29533',
+        url: 'https://mgqudaobao.oss-cn-beijing.aliyuncs.com/29533.apk',
         text: '玫瑰直播',
         img: 'https://hd.cdn8-video.com/s248.gif',
     },
@@ -165,7 +165,7 @@ var grid_data_3 = [
         img: 'https://hd.cdn8-video.com/7.gif',
     },
     {
-        url: 'http://meigui06.com/?channelCode=29533',
+        url: 'https://mgqudaobao.oss-cn-beijing.aliyuncs.com/29533.apk',
         text: '玫瑰直播',
         img: 'https://hd.cdn8-video.com/s135.gif',
     },
