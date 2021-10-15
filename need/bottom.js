@@ -15,7 +15,7 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/metoo.webp',
     }, 
     {
-        url: 'http://xc.lszgf.top/web.html?channelCode=yz07_12',
+        url: 'http://xc.lszgf.top/web.html?channelCode=yz07_14',
         text: '新茶直播',
         img: 'https://hd.cdn8-video.com/rgw52.gif',
     },
@@ -154,7 +154,7 @@ var grid_data_3 = [
         img: 'https://hd.cdn8-video.com/shangmengyuepao.gif',
     },
     {//1-1
-        url: 'http://xc.lszgf.top/web.html?channelCode=yz07_12',
+        url: 'http://xc.lszgf.top/web.html?channelCode=yz07_14',
         text: '新茶直播',
         img: 'https://hd.cdn8-video.com/dhjgkjjhs.gif',
         
