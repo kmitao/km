@@ -20,11 +20,6 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/rgw52.gif',
     },
     {
-        url: 'https://dx013.live/?channelCode=9FFF6',
-        text: '大秀直播',
-        img: 'https://hd.cdn8-video.com/uty52.gif',
-    }, 
-    {
         url: 'https://manguan.vip?channel=LEE791',
         text: '春茶社区',
         img: 'https://hd.cdn8-video.com/eghfdfasgdhfjgh.gif',
@@ -163,11 +158,6 @@ var grid_data_3 = [
         text: '新茶直播',
         img: 'https://hd.cdn8-video.com/dhjgkjjhs.gif',
         
-    },
-    {
-        url: 'https://dx013.live/?channelCode=9FFF6',
-        text: '大秀直播',
-        img: 'https://hd.cdn8-video.com/s135.gif',
     },
     {
         url: 'http://912k.cc/?channelCode=10331',
