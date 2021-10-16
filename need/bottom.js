@@ -60,26 +60,21 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/s199.gif',
     },
     {
-        url: 'https://ldyljr1011.live/162e42c5fbbfd90b',
-        text: '绿巨人',
-        img: 'https://hd.cdn8-video.com/efefdvdftergfngfh.gif',
-    },
-    
-    {
         url: 'https://9191n.net?_chan=xjkmt930-4',
         text: '91香蕉视频',
         img: 'https://hd.cdn8-video.com/ynfl.gif.gif',
-    },
-    {//包月
-        url: 'https://www.112241.vip/',
-        text: '约炮平台',
-        img: 'https://hd.cdn8-video.com/thdthdhdjdj.gif',
     },
     {
         url: 'https://dydreaming.com?channel=tdy914j10',
         text: '抖阴视频',
         img: 'https://hd.cdn8-video.com/asdfghfdsa.gif',
     },
+    {//包月
+        url: 'https://www.112241.vip/',
+        text: '约炮平台',
+        img: 'https://hd.cdn8-video.com/thdthdhdjdj.gif',
+    },
+    
     {
         url: 'https://91lu2015.com/jwknb',
         text: '91撸视频',
