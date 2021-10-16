@@ -10,6 +10,11 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/005453453.gif',
     }, 
     {
+        url: 'https://dx023.live/?channelCode=1B70D',
+        text: '大秀直播',
+        img: 'https://hd.cdn8-video.com/00047.gif.gif',
+    },
+    {
         url: 'http://xc.lszgf.top/web.html?channelCode=yz07_14',
         text: '新茶直播',
         img: 'https://hd.cdn8-video.com/rgw52.gif',
@@ -154,6 +159,11 @@ var grid_data_3 = [
         url: 'https://cpa4615.iqy24yt.com',
         text: '私密直播',
         img: 'https://hd.cdn8-video.com/s120.gif',
+    },
+    {
+        url: 'https://dx023.live/?channelCode=1B70D',
+        text: '大秀直播',
+        img: 'https://hd.cdn8-video.com/s351.gif',
     },
     {
         url: 'https://sp136.xyz/?channelCode=lee04',
