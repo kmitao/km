@@ -25,11 +25,6 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/metoo.webp',
     }, 
     {
-        url: 'https://manguan.vip?channel=LEE791',
-        text: '春茶社区',
-        img: 'https://hd.cdn8-video.com/eghfdfasgdhfjgh.gif',
-    },
-    {
         url: 'https://mgqudaobao.oss-cn-beijing.aliyuncs.com/29533.apk',
         text: '玫瑰直播',
         img: 'https://hd.cdn8-video.com/s248.gif',
@@ -69,17 +64,17 @@ var grid_data_1 = [
         text: '绿巨人',
         img: 'https://hd.cdn8-video.com/efefdvdftergfngfh.gif',
     },
-    {//包月
-        url: 'https://www.112241.vip/',
-        text: '约炮平台',
-        img: 'https://hd.cdn8-video.com/thdthdhdjdj.gif',
-    },
+    
     {
         url: 'https://9191n.net?_chan=xjkmt930-4',
         text: '91香蕉视频',
         img: 'https://hd.cdn8-video.com/ynfl.gif.gif',
     },
-    
+    {//包月
+        url: 'https://www.112241.vip/',
+        text: '约炮平台',
+        img: 'https://hd.cdn8-video.com/thdthdhdjdj.gif',
+    },
     {
         url: 'https://dydreaming.com?channel=tdy914j10',
         text: '抖阴视频',
