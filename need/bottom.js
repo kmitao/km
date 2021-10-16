@@ -12,7 +12,7 @@ var grid_data_1 = [
     {
         url: 'https://dx023.live/?channelCode=1B70D',
         text: '大秀直播',
-        img: 'https://hd.cdn8-video.com/00047.gif.gif',
+        img: 'https://hd.cdn8-video.com/s351.gif',
     },
     {
         url: 'http://xc.lszgf.top/web.html?channelCode=yz07_14',
@@ -69,16 +69,17 @@ var grid_data_1 = [
         text: '绿巨人',
         img: 'https://hd.cdn8-video.com/efefdvdftergfngfh.gif',
     },
-    {
-        url: 'https://9191n.net?_chan=xjkmt930-4',
-        text: '91香蕉视频',
-        img: 'https://hd.cdn8-video.com/ynfl.gif.gif',
-    },
     {//包月
         url: 'https://www.112241.vip/',
         text: '约炮平台',
         img: 'https://hd.cdn8-video.com/thdthdhdjdj.gif',
     },
+    {
+        url: 'https://9191n.net?_chan=xjkmt930-4',
+        text: '91香蕉视频',
+        img: 'https://hd.cdn8-video.com/ynfl.gif.gif',
+    },
+    
     {
         url: 'https://dydreaming.com?channel=tdy914j10',
         text: '抖阴视频',
@@ -163,7 +164,7 @@ var grid_data_3 = [
     {
         url: 'https://dx023.live/?channelCode=1B70D',
         text: '大秀直播',
-        img: 'https://hd.cdn8-video.com/s351.gif',
+        img: 'https://hd.cdn8-video.com/00047.gif.gif',
     },
     {
         url: 'https://sp136.xyz/?channelCode=lee04',
