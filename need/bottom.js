@@ -30,7 +30,7 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/metoo.webp',
     }, 
     {
-        url: 'https://mgqudaobao.oss-cn-beijing.aliyuncs.com/29533.apk',
+        url: 'http://mygirl01.com/?channelCode=29533',
         text: '玫瑰直播',
         img: 'https://hd.cdn8-video.com/s248.gif',
     },
@@ -178,7 +178,7 @@ var grid_data_3 = [
         img: 'https://hd.cdn8-video.com/7.gif',
     },
     {
-        url: 'https://mgqudaobao.oss-cn-beijing.aliyuncs.com/29533.apk',
+        url: 'http://mygirl01.com/?channelCode=29533',
         text: '玫瑰直播',
         img: 'https://hd.cdn8-video.com/s135.gif',
     },
