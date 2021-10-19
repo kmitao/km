@@ -140,7 +140,7 @@ var grid_data_2 = [
         img: 'https://hd.cdn8-video.com/s864.jpg',
     },
     {
-        url: 'https://4593vip.com/?shareName=www.qq2287.com',
+        url: 'https://4593012.com/',
         text: '澳门金沙',
         img: 'https://hd.cdn8-video.com/fkhgfdsfgh.jpg',
     }, 
