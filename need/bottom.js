@@ -30,8 +30,8 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/metoo.webp',
     }, 
     {
-        url: 'http://mygirl01.com/?channelCode=29533',
-        text: '玫瑰直播',
+        url: 'https://dx023.live/?channelCode=1B70D',
+        text: '妖女直播',
         img: 'https://hd.cdn8-video.com/s248.gif',
     },
     {
@@ -178,8 +178,8 @@ var grid_data_3 = [
         img: 'https://hd.cdn8-video.com/7.gif',
     },
     {
-        url: 'http://mygirl01.com/?channelCode=29533',
-        text: '玫瑰直播',
+        url: 'https://dx023.live/?channelCode=1B70D',
+        text: '妖女直播',
         img: 'https://hd.cdn8-video.com/s135.gif',
     },
     
