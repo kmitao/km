@@ -30,11 +30,6 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/s248.gif',
     },
     {
-        url: 'http://912k.cc/?channelCode=10331',   
-        text: '青橙直播',
-        img: 'https://hd.cdn8-video.com/ghg35.gif',
-    },
-    {
         url: 'http://blabc05.com/?dc=bxza7604',   
         text: '逼哩逼哩',
         img: 'https://hd.cdn8-video.com/dfghjytredfgfx.gif',
@@ -144,11 +139,6 @@ var grid_data_3 = [
         url: 'https://sp136.xyz/?channelCode=lee04',
         text: '蜻蜓直播',
         img: 'https://hd.cdn8-video.com/shangmengyuepao.gif',
-    },
-    {
-        url: 'http://912k.cc/?channelCode=10331',
-        text: '青橙直播',
-        img: 'https://hd.cdn8-video.com/7.gif',
     },
     {
         url: 'https://dx023.live/?channelCode=1B70D',
