@@ -65,11 +65,6 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/ynfl.gif.gif',
     },
     {
-        url: 'https://dydreaming.com?channel=tdy914j10',
-        text: '抖阴视频',
-        img: 'https://hd.cdn8-video.com/asdfghfdsa.gif',
-    },
-    {
         url: 'https://91lu2015.com/jwknb',
         text: '91撸视频',
         img: 'https://hd.cdn8-video.com/drhdjykesgf.gif',
@@ -234,27 +229,7 @@ var grid_data_5 = [
         text: '成人b站',
         img: 'https://hd.cdn8-video.com/momo.webp',
     },
-    
-    /*{
-        url: 'https://dysp9.me?channel=tdy914j10',
-        text: '抖阴视频',
-        img: 'https://hd.cdn8-video.com/sghasgh.gif',
-    },
-    {
-        url: 'https://91lu2015.com/jwknb',
-        text: '啪啪视频',
-        img: 'https://hd.cdn8-video.com/7.gif',   
-    },
-    {
-        url: 'http://hg456jikv.pni3rj.online/sgo0971.html?pkg=cuke0421&inviteCode=subtone000',
-        text: '黄瓜视频',
-        img: 'https://hd.cdn8-video.com/s123.gif',
-    },
-    {
-        url: 'https://anwqko.com?android=damao1008&type=1&ios=damao1008&all=&style=0',
-        text: '成人动漫',
-        img: 'https://hd.cdn8-video.com/shangmengyuepao.gif',
-    },*/
+
     
 
 ];
