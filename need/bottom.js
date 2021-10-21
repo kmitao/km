@@ -20,11 +20,6 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/thdthdhdjdj.gif',
     },
     {
-        url: 'https://manguan.vip?channel=LEE792',
-        text: '春茶社区',
-        img: 'https://hd.cdn8-video.com/3455434dfg.gif',
-    },
-    {
         url: 'https://sp136.xyz/?channelCode=lee04',
         text: '蜻蜓直播',
         img: 'https://hd.cdn8-video.com/metoo.webp',
