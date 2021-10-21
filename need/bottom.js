@@ -20,19 +20,9 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/thdthdhdjdj.gif',
     },
     {
-        url: 'https://sp136.xyz/?channelCode=lee04',
-        text: '蜻蜓直播',
-        img: 'https://hd.cdn8-video.com/metoo.webp',
-    }, 
-    {
         url: 'https://dx023.live/?channelCode=1B70D',
         text: '妖女直播',
         img: 'https://hd.cdn8-video.com/s248.gif',
-    },
-    {
-        url: 'http://blabc05.com/?dc=bxza7604',   
-        text: '逼哩逼哩',
-        img: 'https://hd.cdn8-video.com/dfghjytredfgfx.gif',
     },
     {
         url: 'https://51mh053.com/?_c=cpa11mh',
@@ -136,8 +126,8 @@ var grid_data_3 = [
         img: 'https://hd.cdn8-video.com/00047.gif.gif',
     },
     {
-        url: 'https://sp136.xyz/?channelCode=lee04',
-        text: '蜻蜓直播',
+        url: 'https://dx023.live/?channelCode=1B70D',
+        text: '玫瑰直播',
         img: 'https://hd.cdn8-video.com/shangmengyuepao.gif',
     },
     {
