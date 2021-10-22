@@ -35,11 +35,6 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/s245.gif',
     },
     {
-        url: 'http://yt.yingtaotv3.work/?a=ngr684',   
-        text: '樱桃视频',
-        img: 'https://hd.cdn8-video.com/x1.webp',
-    }, 
-    {
         url: 'https://9191n.net?_chan=xjkmt930-4',
         text: '91香蕉视频',
         img: 'https://hd.cdn8-video.com/ynfl.gif.gif',
