@@ -13,6 +13,11 @@ var grid_data_1 = [
         text: '私密直播',
         img: 'https://hd.cdn8-video.com/005453453.gif',
     }, 
+    {
+        url: 'https://cm001.sp43.xyz/?channelCode=cm001',
+        text: '蜻蜓直播',
+        img: 'https://hd.cdn8-video.com/ghg35.gif',
+    }, 
     
     {//包月
         url: 'https://www.112241.vip/',
@@ -122,8 +127,8 @@ var grid_data_3 = [
     },
     
     {
-        url: 'https://dx023.live/?channelCode=1B70D',
-        text: '玫瑰直播',
+        url: 'https://cm001.sp43.xyz/?channelCode=cm001',
+        text: '蜻蜓直播',
         img: 'https://hd.cdn8-video.com/shangmengyuepao.gif',
     },
     {
