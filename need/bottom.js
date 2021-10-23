@@ -3,17 +3,17 @@ var notice = '本站所有产品均已经过严格检测，保证无毒，请放
 
 // 热门推荐
 var grid_data_1 = [
-    
-    {
-        url: 'https://cpa4615.iqy24yt.com',
-        text: '私密直播',
-        img: 'https://hd.cdn8-video.com/005453453.gif',
-    }, 
     {
         url: 'https://dx023.live/?channelCode=1B70D',
         text: '大秀直播',
         img: 'https://hd.cdn8-video.com/s351.gif',
     },
+    {
+        url: 'https://cpa4615.iqy24yt.com',
+        text: '私密直播',
+        img: 'https://hd.cdn8-video.com/005453453.gif',
+    }, 
+    
     {//包月
         url: 'https://www.112241.vip/',
         text: '约炮平台',
@@ -110,16 +110,17 @@ var grid_data_2 = [
 
 // 直播APP
 var grid_data_3 = [
-    {//2-1
-        url: 'https://cpa4615.iqy24yt.com',
-        text: '私密直播',
-        img: 'https://hd.cdn8-video.com/s120.gif',
-    },
     {
         url: 'https://dx023.live/?channelCode=1B70D',
         text: '大秀直播',
         img: 'https://hd.cdn8-video.com/00047.gif.gif',
     },
+    {//2-1
+        url: 'https://cpa4615.iqy24yt.com',
+        text: '私密直播',
+        img: 'https://hd.cdn8-video.com/s120.gif',
+    },
+    
     {
         url: 'https://dx023.live/?channelCode=1B70D',
         text: '玫瑰直播',
