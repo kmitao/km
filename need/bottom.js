@@ -27,7 +27,7 @@ var grid_data_1 = [
     {
         url: 'https://dx023.live/?channelCode=1B70D',
         text: '香蕉直播',
-        img: 'https://hd.cdn8-video.com/s135.gif',
+        img: 'https://hd.cdn8-video.com/sdf24.gif',
     },
     {//包月
         url: 'https://www.112241.vip/',
