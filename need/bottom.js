@@ -12,7 +12,6 @@ var grid_data_1 = [
         url: 'https://manguan.vip?channel=LEE792',
         text: '春茶社区',
         img: 'https://hd.cdn8-video.com/s135.gif',
-       
     },
     {
         url: 'https://cpa4615.iqy24yt.com',
@@ -25,10 +24,21 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/ghg35.gif',
     }, 
     {
+        url: 'https://xc4.xjdzq.top/?channelCode=yz07_14',
+        text: '新茶直播',
+        img: 'https://hd.cdn8-video.com/uty52.gif',
+    },
+    {
+        url: 'https://fq9024.cc/?channelCode=XS104',
+        text: '番茄直播',
+        img: 'https://hd.cdn8-video.com/rew43.gif',
+    },
+    {
         url: 'https://dx023.live/?channelCode=1B70D',
         text: '香蕉直播',
         img: 'https://hd.cdn8-video.com/sdf24.gif',
     },
+    
     {//包月
         url: 'https://www.112241.vip/',
         text: '约炮平台',
@@ -52,7 +62,7 @@ var grid_data_1 = [
     {
         url: 'https://9191n.net?_chan=xjkmt930-4',
         text: '91香蕉视频',
-        img: 'https://hd.cdn8-video.com/ynfl.gif.gif',
+        img: 'https://hd.cdn8-video.com/xq7wnd.gif',
     },
     {
         url: 'https://91lu2015.com/jwknb',
@@ -130,12 +140,11 @@ var grid_data_3 = [
         text: '大秀直播',
         img: 'https://hd.cdn8-video.com/00047.gif.gif',
     },
-    {//2-1
+    {
         url: 'https://cpa4615.iqy24yt.com',
         text: '私密直播',
         img: 'https://hd.cdn8-video.com/s120.gif',
     },
-    
     {
         url: 'https://cm001.sp43.xyz/?channelCode=cm001',
         text: '蜻蜓直播',
@@ -146,17 +155,16 @@ var grid_data_3 = [
         text: '妖女直播',
         img: 'https://hd.cdn8-video.com/s135.gif',
     },
-    
-    /*{
-        url: 'https://9191n.net?_chan=xjkmt930-4',
-        text: '香蕉直播',
+    {
+        url: 'https://xc4.xjdzq.top/?channelCode=yz07_14',
+        text: '新茶直播',
         img: 'https://hd.cdn8-video.com/s135.gif',
     },
     {
-        url: 'https://sdd911.com/share?code=001M4PA8X',
-        text: '私密直播',
+        url: 'https://fq9024.cc/?channelCode=XS104',
+        text: '番茄直播',
         img: 'https://hd.cdn8-video.com/shangmengyuepao.gif',
-    },*/
+    },
     
     
     /*{//1-3
