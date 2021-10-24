@@ -24,7 +24,11 @@ var grid_data_1 = [
         text: '蜻蜓直播',
         img: 'https://hd.cdn8-video.com/ghg35.gif',
     }, 
-    
+    {
+        url: 'https://dx023.live/?channelCode=1B70D',
+        text: '香蕉直播',
+        img: 'https://hd.cdn8-video.com/s135.gif',
+    },
     {//包月
         url: 'https://www.112241.vip/',
         text: '约炮平台',
