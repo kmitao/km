@@ -4,6 +4,12 @@ var notice = '本站所有产品均已经过严格检测，保证无毒，请放
 // 热门推荐
 var grid_data_1 = [
     {
+        url: 'https://manguan.vip?channel=LEE792',
+        text: '春茶社区',
+        img: 'https://hd.cdn8-video.com/s135.gif',
+       
+    },
+    {
         url: 'https://dx023.live/?channelCode=1B70D',
         text: '大秀直播',
         img: 'https://hd.cdn8-video.com/s351.gif',
@@ -14,8 +20,8 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/005453453.gif',
     }, 
     {
-        url: 'https://cm001.sp43.xyz/?channelCode=cm001',
-        text: '蜻蜓直播',
+        url: 'https://manguan.vip?channel=LEE792',
+        text: '私密直播',
         img: 'https://hd.cdn8-video.com/ghg35.gif',
     }, 
     
