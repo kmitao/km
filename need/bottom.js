@@ -3,11 +3,7 @@ var notice = '本站所有产品均已经过严格检测，保证无毒，请放
 
 // 热门推荐
 var grid_data_1 = [
-    {
-        url: 'https://dx023.live/?channelCode=1B70D',
-        text: '大秀直播',
-        img: 'https://hd.cdn8-video.com/s351.gif',
-    },
+
     {
         url: 'https://manguan.vip?channel=LEE792',
         text: '春茶社区',
@@ -33,21 +29,10 @@ var grid_data_1 = [
         text: '番茄直播',
         img: 'https://hd.cdn8-video.com/rew43.gif',
     },
-    {
-        url: 'https://dx023.live/?channelCode=1B70D',
-        text: '香蕉直播',
-        img: 'https://hd.cdn8-video.com/sdf24.gif',
-    },
-    
     {//包月
         url: 'https://www.112241.vip/',
         text: '约炮平台',
         img: 'https://hd.cdn8-video.com/thdthdhdjdj.gif',
-    },
-    {
-        url: 'https://dx023.live/?channelCode=1B70D',
-        text: '妖女直播',
-        img: 'https://hd.cdn8-video.com/s248.gif',
     },
     {
         url: 'https://51mh053.com/?_c=cpa11mh',
@@ -136,11 +121,6 @@ var grid_data_2 = [
 // 直播APP
 var grid_data_3 = [
     {
-        url: 'https://dx023.live/?channelCode=1B70D',
-        text: '大秀直播',
-        img: 'https://hd.cdn8-video.com/00047.gif.gif',
-    },
-    {
         url: 'https://cpa4615.iqy24yt.com',
         text: '私密直播',
         img: 'https://hd.cdn8-video.com/s120.gif',
@@ -150,11 +130,7 @@ var grid_data_3 = [
         text: '蜻蜓直播',
         img: 'https://hd.cdn8-video.com/shangmengyuepao.gif',
     },
-    {
-        url: 'https://dx023.live/?channelCode=1B70D',
-        text: '妖女直播',
-        img: 'https://hd.cdn8-video.com/s135.gif',
-    },
+
     {
         url: 'https://xc4.xjdzq.top/?channelCode=yz07_14',
         text: '新茶直播',
