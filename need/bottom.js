@@ -32,7 +32,7 @@ var grid_data_1 = [
     {
         url: 'https://www.yh6.club/?channelId=YHQD167',
         text: '鱼欢直播',
-        img: 'https://hd.cdn8-video.com/rew43.gif',
+        img: 'https://hd.cdn8-video.com/s114.gif',
     },
     {//包月
         url: 'https://www.112241.vip/',
