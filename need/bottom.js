@@ -29,11 +29,17 @@ var grid_data_1 = [
         text: '番茄直播',
         img: 'https://hd.cdn8-video.com/rew43.gif',
     },
+    {
+        url: 'https://www.yh6.club/?channelId=YHQD167',
+        text: '鱼欢直播',
+        img: 'https://hd.cdn8-video.com/rew43.gif',
+    },
     {//包月
         url: 'https://www.112241.vip/',
         text: '约炮平台',
         img: 'https://hd.cdn8-video.com/thdthdhdjdj.gif',
     },
+    
     {
         url: 'https://51mh053.com/?_c=cpa11mh',
         text: '成人动漫',
@@ -145,6 +151,11 @@ var grid_data_3 = [
         url: 'https://fq9024.cc/?channelCode=XS104',
         text: '番茄直播',
         img: 'https://hd.cdn8-video.com/shangmengyuepao.gif',
+    },
+    {//1-3
+        url: 'https://www.yh6.club/?channelId=YHQD167',
+        text: '鱼欢直播',
+        img: 'https://hd.cdn8-video.com/s176.gif',
     },
     
     
