@@ -19,11 +19,11 @@ var grid_data_1 = [
         text: '新茶直播',
         img: 'https://hd.cdn8-video.com/uty52.gif',
     },
-    {
+    /*{
         url: 'https://cm001.sp43.xyz/?channelCode=cm001',
         text: '蜻蜓直播',
         img: 'https://hd.cdn8-video.com/ghg35.gif',
-    },
+    },*/
     {//包月
         url: 'https://www.112241.vip/',
         text: '约炮平台',
@@ -137,11 +137,11 @@ var grid_data_3 = [
         text: '番茄直播',
         img: 'https://hd.cdn8-video.com/shangmengyuepao.gif',
     },
-    {//2-4
+    /*{//2-4
         url: 'https://cm001.sp43.xyz/?channelCode=cm001',
         text: '蜻蜓直播',
         img: 'https://hd.cdn8-video.com/gffjsdfgsj.gif',
-    },
+    },*/
     
     
     /*{//1-3
