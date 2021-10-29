@@ -9,11 +9,7 @@ var grid_data_1 = [
         text: '春茶社区',
         img: 'https://hd.cdn8-video.com/s135.gif',
     },
-    {
-        url: 'https://cm001.sp43.xyz/?channelCode=cm001',
-        text: '蜻蜓直播',
-        img: 'https://hd.cdn8-video.com/ghg35.gif',
-    }, 
+ 
     {
         url: 'https://xc14.ckwp.top/?channelCode=yz07_14',
         text: '新茶直播',
@@ -123,7 +119,7 @@ var grid_data_2 = [
 var grid_data_3 = [
 
     {
-        url: 'https://cm001.sp43.xyz/?channelCode=cm001',
+        url: 'https://fq9024.cc/?channelCode=XS104',
         text: '蜻蜓直播',
         img: 'https://hd.cdn8-video.com/shangmengyuepao.gif',
     },
