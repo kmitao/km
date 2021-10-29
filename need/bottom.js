@@ -10,11 +10,6 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/s135.gif',
     },
     {
-        url: 'https://cpa4615.iqy24yt.com',
-        text: '私密直播',
-        img: 'https://hd.cdn8-video.com/005453453.gif',
-    }, 
-    {
         url: 'https://cm001.sp43.xyz/?channelCode=cm001',
         text: '蜻蜓直播',
         img: 'https://hd.cdn8-video.com/ghg35.gif',
@@ -126,11 +121,7 @@ var grid_data_2 = [
 
 // 直播APP
 var grid_data_3 = [
-    {
-        url: 'https://cpa4615.iqy24yt.com',
-        text: '私密直播',
-        img: 'https://hd.cdn8-video.com/s120.gif',
-    },
+
     {
         url: 'https://cm001.sp43.xyz/?channelCode=cm001',
         text: '蜻蜓直播',
