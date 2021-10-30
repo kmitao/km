@@ -25,7 +25,7 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/s248.gif',
     },
     {
-        url: 'https://mgqudaobao.oss-cn-beijing.aliyuncs.com/30561.apk',
+        url: 'https://19ww.vip/?channelCode=30561',
         text: '丝袜诱惑',
         img: 'https://hd.cdn8-video.com/s249.gif',
     },
@@ -168,7 +168,7 @@ var grid_data_3 = [
         img: 'https://hd.cdn8-video.com/gffjsdfgsj.gif',
     },
     {
-        url: 'https://rrtv.532279.com/?channelCode=rrxx',
+        url: 'https://19ww.vip/?channelCode=30561',
         text: '玫瑰直播',
         img: 'https://hd.cdn8-video.com/s114.gif',
     },
