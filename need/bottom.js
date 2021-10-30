@@ -87,7 +87,7 @@ var grid_data_1 = [
     {
         url: 'https://tm12ji.com/323EF8.html?code=8UAZU',   
         text: '欧美激情',
-        img: 'https://hd.cdn8-video.com/s482.gif',
+        img: 'https://hd.cdn8-video.com/rey44.jpg',
     }, 
     {
         url: 'https://63she.me/?_c=ym107c',   
