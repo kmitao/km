@@ -17,7 +17,7 @@ var grid_data_1 = [
     {
         url: 'https://xc14.ckwp.top/?channelCode=yz07_14',
         text: '儿子操妈',
-        img: 'https://hd.cdn8-video.com/s245.gif',
+        img: 'https://hd.cdn8-video.com/s060.gif',
     },
     {
         url: 'https://cm001.sp43.xyz/?channelCode=cm001',
@@ -32,12 +32,12 @@ var grid_data_1 = [
     {
         url: 'https://manguan.vip?channel=LEE792',
         text: '强奸迷奸',
-        img: 'https://hd.cdn8-video.com/s261.gif',
+        img: 'https://hd.cdn8-video.com/rgr58.gif',
     },
     {
         url: 'https://fq9024.cc/?channelCode=XS104',
         text: '人兽性交',
-        img: 'https://hd.cdn8-video.com/s266.gif',
+        img: 'https://hd.cdn8-video.com/s247.gif',
     },
     {
         url: 'https://xc14.ckwp.top/?channelCode=yz07_14',
@@ -87,7 +87,7 @@ var grid_data_1 = [
     {
         url: 'https://tm12ji.com/323EF8.html?code=8UAZU',   
         text: '欧美激情',
-        img: 'https://hd.cdn8-video.com/rIRHw9dC.gif.gif',
+        img: 'https://hd.cdn8-video.com/s482.gif',
     }, 
     {
         url: 'https://63she.me/?_c=ym107c',   
