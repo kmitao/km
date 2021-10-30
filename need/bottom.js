@@ -24,11 +24,11 @@ var grid_data_1 = [
         text: '宅男福利',
         img: 'https://hd.cdn8-video.com/s248.gif',
     },
-    /*{
-        url: 'https://19ww.vip/?channelCode=30561',
+    {
+        url: 'https://24ww.vip/?channelCode=29629',
         text: '丝袜诱惑',
         img: 'https://hd.cdn8-video.com/s249.gif',
-    },*/
+    },
     {
         url: 'https://manguan.vip?channel=LEE792',
         text: '强奸迷奸',
@@ -167,11 +167,11 @@ var grid_data_3 = [
         text: '蜻蜓直播',
         img: 'https://hd.cdn8-video.com/gffjsdfgsj.gif',
     },
-    /*{
-        url: 'https://19ww.vip/?channelCode=30561',
+    {
+        url: 'https://24ww.vip/?channelCode=29629',
         text: '玫瑰直播',
         img: 'https://hd.cdn8-video.com/s114.gif',
-    },*/
+    },
     
     
 
