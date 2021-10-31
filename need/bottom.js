@@ -49,6 +49,11 @@ var grid_data_1 = [
         text: '口交视频',
         img: 'https://hd.cdn8-video.com/uty52.gif',
     },
+    {
+        url: 'https://cm001.sp43.xyz/?channelCode=cm001',
+        text: '销魂自拍',
+        img: 'https://hd.cdn8-video.com/anim12n.gif.gif',
+    },
     {//包月
         url: 'https://www.112241.vip/',
         text: '约炮平台',
