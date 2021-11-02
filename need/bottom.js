@@ -85,7 +85,7 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/s111.gif',
     },
     {
-        url: 'https://9191n.net?_chan=xjkmt930-4',
+        url: 'https://xc14.ckwp.top/?channelCode=yz07_14',
         text: '强暴虐待',
         img: 'https://hd.cdn8-video.com/rtr45.gif',
     },
