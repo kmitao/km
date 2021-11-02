@@ -195,7 +195,7 @@ var grid_data_3 = [
     {
         url: 'https://cpa5891.lyco8xq.com',
         text: '魅爱直播',
-        img: 'https://hd.cdn8-video.com/sdfghjklkjhg.gif',
+        img: 'https://hd.cdn8-video.com/ertyjxvbcvmesgrh.gif',
     },
     {
         url: 'http://www.648jjjj.xyz/index.html?channelCode=648jjjj_3',
