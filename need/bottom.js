@@ -6,7 +6,7 @@ var grid_data_1 = [
 
     {
         url: 'https://manguan.vip?channel=LEE792',
-        text: '直播啪啪',
+        text: '明星淫乱',
         img: 'https://hd.cdn8-video.com/rgw52.gif',
     },
     {
