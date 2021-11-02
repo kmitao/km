@@ -185,7 +185,7 @@ var grid_data_3 = [
     {
         url: 'https://fq9024.cc/?channelCode=XS104',
         text: '番茄直播',
-        img: 'https://hd.cdn8-video.com/shangmengyuepao.gif',
+        img: 'https://hd.cdn8-video.com/drhdjykesgf.gif',
     },
     {
         url: 'https://cm001.sp43.xyz/?channelCode=cm001',
