@@ -28,7 +28,7 @@ var grid_data_1 = [
     {
         url: 'https://cpa5891.lyco8xq.com',
         text: '夜寻苍井',
-        img: 'https://hd.cdn8-video.com/dhjgkjjhs.gif',
+        img: 'https://hd.cdn8-video.com/sdfhggfsggd.gif',
     },
     {
         url: 'https://ge778.vip/?channelCode=QD-11-19',
@@ -68,7 +68,7 @@ var grid_data_1 = [
     {
         url: 'https://cpa5891.lyco8xq.com',
         text: '淫妹社',
-        img: 'https://hd.cdn8-video.com/dsfdafdh.gif',
+        img: 'https://hd.cdn8-video.com/sdfgqwer.gif',
     },
     {
         url: 'https://ge778.vip/?channelCode=QD-11-19',
