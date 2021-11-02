@@ -7,37 +7,37 @@ var grid_data_1 = [
     
     {
         url: 'https://fq9024.cc/?channelCode=XS104',
-        text: '可爱女友',
+        text: '番茄直播',
         img: 'https://hd.cdn8-video.com/s199.gif',
     },
     {
-        url: 'https://xc14.ckwp.top/?channelCode=yz07_14',
-        text: '儿子操妈',
+        url: 'https://kmt.xc11.tv/?channelCode=yz07_14',
+        text: '新茶直播',
         img: 'https://hd.cdn8-video.com/s060.gif',
     },
     {
         url: 'https://cm001.sp43.xyz/?channelCode=cm001',
-        text: '宅男福利',
+        text: '蜻蜓直播',
         img: 'https://hd.cdn8-video.com/s248.gif',
     },
     {
         url: 'http://www.648jjjj.xyz/index.html?channelCode=648jjjj_3',
-        text: '丝袜诱惑',
+        text: '妖女直播',
         img: 'https://hd.cdn8-video.com/s249.gif',
     },
     {
         url: 'https://cpa5891.lyco8xq.com',
-        text: '夜寻苍井',
+        text: '魅爱直播',
         img: 'https://hd.cdn8-video.com/sdfhggfsggd.gif',
     },
     {
         url: 'https://ge778.vip/?channelCode=QD-11-19',
-        text: '孕妇做爱',
+        text: '趣播直播',
         img: 'https://hd.cdn8-video.com/dhjgkjjhs.gif',
     },
     {
         url: 'https://manguan.vip?channel=LEE792',
-        text: '强奸迷奸',
+        text: '春茶社区',
         img: 'https://hd.cdn8-video.com/rgr58.gif',
     },
     {
@@ -51,7 +51,7 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/s247.gif',
     },
     {
-        url: 'https://xc14.ckwp.top/?channelCode=yz07_14',
+        url: 'https://kmt.xc11.tv/?channelCode=yz07_14',
         text: '女大学生',
         img: 'https://hd.cdn8-video.com/x4.webp',
     },
@@ -96,7 +96,7 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/s111.gif',
     },
     {
-        url: 'https://xc14.ckwp.top/?channelCode=yz07_14',
+        url: 'https://kmt.xc11.tv/?channelCode=yz07_14',
         text: '强暴虐待',
         img: 'https://hd.cdn8-video.com/rtr45.gif',
     },
@@ -178,7 +178,7 @@ var grid_data_3 = [
         img: 'https://hd.cdn8-video.com/shangmengyuepao.gif',
     },
     {
-        url: 'https://xc14.ckwp.top/?channelCode=yz07_14',
+        url: 'https://kmt.xc11.tv/?channelCode=yz07_14',
         text: '新茶直播',
         img: 'https://hd.cdn8-video.com/s135.gif',
     },
