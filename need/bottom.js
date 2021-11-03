@@ -101,7 +101,7 @@ var grid_data_1 = [
         img: 'https://hd.cdn8-video.com/rtr45.gif',
     },
     {
-        url: 'https://91lu2015.com/jwknb',
+        url: 'https://jwhcl.opxyjl88.com/direct.html',
         text: '调教女友',
         img: 'https://hd.cdn8-video.com/x7.webp',
     },
