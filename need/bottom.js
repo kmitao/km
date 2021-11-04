@@ -40,7 +40,7 @@ var grid_data_1 = [
         text: '春茶社区',
         img: 'https://hd.cdn8-video.com/rgr58.gif',
     },
-    {
+    /*{
         url: 'https://manguan.vip?channel=LEE792',
         text: '明星淫乱',
         img: 'https://hd.cdn8-video.com/rgw52.gif',
@@ -74,7 +74,7 @@ var grid_data_1 = [
         url: 'https://ge778.vip/?channelCode=QD-11-19',
         text: '空姐少妇',
         img: 'https://hd.cdn8-video.com/dsfdafdh.gif',
-    },
+    },*/
     {//包月
         url: 'https://www.112241.vip/',
         text: '约炮平台',
