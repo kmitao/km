@@ -25,11 +25,11 @@ var grid_data_1 = [
         text: '妖女直播',
         img: 'https://hd.cdn8-video.com/s249.gif',
     },
-    {
+    /*{
         url: 'https://cpa5891.lyco8xq.com',
         text: '魅爱直播',
         img: 'https://hd.cdn8-video.com/sdfhggfsggd.gif',
-    },
+    },*/
     {
         url: 'https://ge778.vip/?channelCode=QD-11-19',
         text: '趣播直播',
@@ -75,6 +75,7 @@ var grid_data_1 = [
         text: '空姐少妇',
         img: 'https://hd.cdn8-video.com/dsfdafdh.gif',
     },*/
+    
     {//包月
         url: 'https://www.112241.vip/',
         text: '约炮平台',
@@ -192,11 +193,11 @@ var grid_data_3 = [
         text: '蜻蜓直播',
         img: 'https://hd.cdn8-video.com/gffjsdfgsj.gif',
     },
-    {
+    /*{
         url: 'https://cpa5891.lyco8xq.com',
         text: '魅爱直播',
         img: 'https://hd.cdn8-video.com/ertyjxvbcvmesgrh.gif',
-    },
+    },*/ 
     {
         url: 'http://www.648jjjj.xyz/index.html?channelCode=648jjjj_3',
         text: '妖女直播',
